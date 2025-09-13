@@ -58,7 +58,7 @@ class EchoAIService: ObservableObject {
     @Published var articles: [NewsArticle] = []
     @Published var selectedCategory = "general"
     
-    private let newsApiKey = "996df1022efc420f816029a1291ac4bc"
+    private let newsApiKey = ""//996df1022efc420f816029a1291ac4bc
     private var page = 1
     
     private let categories: [(label: String, key: String)] = [
