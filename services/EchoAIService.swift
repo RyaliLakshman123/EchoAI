@@ -51,8 +51,8 @@ class EchoAIService: ObservableObject {
     @Published var isLoading = false
     
     // API Keys
-    private let groqApiKey = "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"
-    private let echoAPIKey = "AIzaSyBuZhHkEli_gnd2JwN-HBLzQiaIPzMpVT8"
+    private let groqApiKey = ""//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
+    private let echoAPIKey = ""//AIzaSyBuZhHkEli_gnd2JwN-HBLzQiaIPzMpVT8
     
     // MARK: - News Properties
     @Published var articles: [NewsArticle] = []
