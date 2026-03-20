@@ -2,7 +2,7 @@
 //  NewsView.swift
 //  Echo AI
 //
-//  Created by Sameer Nikhil on 25/08/25.
+//  Created by Lakshman Ryali on 25/08/25.
 //
 
 import SwiftUI

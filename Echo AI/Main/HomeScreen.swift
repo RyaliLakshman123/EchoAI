@@ -2,7 +2,7 @@
 //  HomeScreen.swift
 //  Echo
 //
-//  Created by Sameer Nikhil on 23/08/25.
+//  Created by Lakshman Ryali on 23/08/25.
 //
 
 import SwiftUI

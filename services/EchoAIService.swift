@@ -2,7 +2,7 @@
 //  EchoAIService.swift
 //  Echo AI
 //
-//  Created by Sameer Nikhil on 24/08/25.
+//  Created by Lakshman Ryali on 24/08/25.
 //
 
 import Foundation

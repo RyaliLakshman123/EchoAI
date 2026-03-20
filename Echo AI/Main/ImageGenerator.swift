@@ -2,7 +2,7 @@
 //  ImageGenerator.swift
 //  Echo AI
 //
-//  Created by Sameer Nikhil on 26/08/25.
+//  Created by Lakshman Ryali on 26/08/25.
 //  Premium Pollinations AI version
 //
 

@@ -2,7 +2,7 @@
 //  ChatHistoryView.swift
 //  Echo AI
 //
-//  Created by Sameer Nikhil on 03/09/25.
+//  Created by Lakshman Ryali on 03/09/25.
 //
 
 import SwiftUI
